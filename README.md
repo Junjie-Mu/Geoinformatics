@@ -1,2 +1,2 @@
 # Geoinformatics
-My study notes majoring in Geoinformatics
+My study notes majoring in Geoinformatics.
