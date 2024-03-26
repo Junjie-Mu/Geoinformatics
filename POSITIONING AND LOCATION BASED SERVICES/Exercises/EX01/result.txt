@@ -1,0 +1,66 @@
+Group 9: Mu Junjie, Deng Jianwei, Su Jiayi
+Local cartesian coordinates of points A, B, C in meters
+Point A = 
+E:  -15.206
+N:  25.861
+U:  -0.001
+Point B = 
+E:  15.206
+N:  -25.861
+U:  0.001
+Point C = 
+E:  172.406
+N:  101.372
+U:  -0.013
+
+ITRF global cartesian coordinates of points A,B,C 
+Point A = 
+X:  4509854.339
+Y:  709345.362
+Z:  4439229.142075994
+Point B = 
+X:  4509885.357
+Y:  709381.026
+Z:  4439192.182868748
+Point C = 
+X:  4509772.998
+Y:  709522.485
+Z:  4439283.093514732
+
+ETRF cartesian coordinates of points A, B, C  
+Point A = 
+X:  4509854.8133
+Y:  709344.7333
+Z:  4439228.7611
+Point B = 
+X:  4509885.8305
+Y:  709380.3976
+Z:  4439191.8018
+Point C = 
+X:  4509773.4717
+Y:  709521.8569
+Z:  4439282.7125
+
+ETRF geodetic coordinates of points A,B,C   
+Point A = 
+lat:  [44, 23, 24.8206]
+lon:  [8, 56, 19.2816]
+h:    [69.998]
+Point B = 
+lat:  [44, 23, 23.1450]
+lon:  [8, 56, 20.6556]
+h:    [69.999]
+Point C = 
+lat:  [44, 23, 27.2669]
+lon:  [8, 56, 27.7582]
+h:    [69.988]
+
+Standard deviations of points A,B in East, North, Up in cm   
+E:  10.2
+N:  10.2
+U:  10.2
+
+Standard deviations of points c in East, North, Up in cm   
+E:  14.1
+N:  14.1
+U:  14.1

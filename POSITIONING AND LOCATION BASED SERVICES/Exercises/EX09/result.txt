@@ -1,0 +1,10 @@
+best path: 
+    {'Kyoto'}
+
+    {'Istanbul'}
+
+    {'Paris'}
+
+    {'Wien'}
+
+    {'Milan'}

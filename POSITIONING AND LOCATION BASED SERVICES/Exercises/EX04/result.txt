@@ -1,0 +1,12 @@
+Group 9: Mu Junjie, Deng Jianwei, Su Jiayi
+
+The total number of iterations is: 5
+The coordinates of the receiver are: [4.407379e+06 7.008408e+05 4.542072e+06]
+The clock offset of the receiver is: 6.327416e-04
+PDOP value is 1.234678
+-------------------------------------------------------------
+Cut off Angle: 5
+The total number of iterations (COA) is: 2
+The coordinates of the receiver (COA) are: [4.407380e+06 7.008364e+05 4.542078e+06]
+The clock offset of the receiver (COA) is: 6.327593e-04
+PDOP (COA) value is 1.427764
